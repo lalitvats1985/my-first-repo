@@ -1,0 +1,6 @@
+This is my first Git Pull practical lab.
+
+Developer B has added this content
+directly to the remote main branch.
+
+I will download this change using Git Pull.
