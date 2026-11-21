@@ -1,0 +1,3 @@
+Application Name: MyApp
+Application Version: 2.0
+Environment: Developments
