@@ -2,3 +2,7 @@ This is my Git Pull experiment on feature branch.
 
 Developer B has pushed new changes
 to the remote feature branch.
+#################################################
+New update from Developer B.
+
+Learning Git Fetch and Git Pull.
